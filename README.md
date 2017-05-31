@@ -1,6 +1,6 @@
 ***WARNING***WARNING***WARNING***
 
-If you already have a database test_db with a students table in it, the table will be deleted when running TestDatabase.java
+If you already have a database test_db with a students table in it, the table contents will be deleted when running TestDatabase.java
 
 ***WARNING***WARNING***WARNING***
 
